@@ -1,0 +1,24 @@
+body {
+    background-color: #be6464;
+    /* background-image: url(assets/banner.jpg); */
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    /* background-size: cover; */
+    background-size: cover;
+}
+
+.bg-img{
+    color:  #be6464;
+    height: 250px;
+    background-image: url(assets/banner.jpg) 
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px;
+}
+
+h5 {
+    color: red;
+}
+.testing {
+    color: blue;
+}
