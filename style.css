@@ -84,13 +84,17 @@ body {
     }
     div.first{
         opacity: 0.1;
+        
     }
     div.second{
         opacity: 0.3;
+        
     }
     div.third{
-        0.6
+        opacity: 0.6;
+        
     }
+        
     .border-property{
         border-radius: 30px;
         border: 10px solid rosybrown;
@@ -101,8 +105,8 @@ body {
         padding: 50px;
     }
     .downlod-img{
-        width: 100px;
-        height: 50;
+        width: 350px;
+        height: 250px;
         
     }
 
