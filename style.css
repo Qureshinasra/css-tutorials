@@ -76,6 +76,37 @@ body {
         color: orchid;
         text-transform: uppercase;
     }
+    ul{
+        list-style-type: squre;
+    }
+    div.b-color{
+        background-color:aqua;
+    }
+    div.first{
+        opacity: 0.1;
+    }
+    div.second{
+        opacity: 0.3;
+    }
+    div.third{
+        0.6
+    }
+    .border-property{
+        border-radius: 30px;
+        border: 10px solid rosybrown;
+    }
+    .padding-margin-property{
+        border: 3px solid plum;
+        margine: 50px;
+        padding: 50px;
+    }
+    .downlod-img{
+        width: 100px;
+        height: 50;
+        
+    }
+
+
 
 
 
